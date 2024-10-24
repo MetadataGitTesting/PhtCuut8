@@ -1,0 +1,49 @@
+name: patsy.hane
+description: transitional
+version: 0.0.1
+author: q8pe6wi8.zet5xxqw@8nczjvez.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: patsyhane
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:06:13'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:06:13'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:06:13.289834Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '949194422'
+  createdAt: '2024-10-24T22:06:13.289834Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
